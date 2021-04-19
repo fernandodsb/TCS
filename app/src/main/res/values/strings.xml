@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Calculadora IPVA</string>
+
+    <string-array name="lista_aliquota">
+        <item>São Paulo</item>
+        <item>Rio de Janeiro</item>
+        <item>Minas Gerais</item>
+        <item>Goiás</item>
+        <item>Distrito Federal</item>
+        <item>Paraná</item>
+        <item>Alagoas</item>
+        <item>Amazonas</item>
+        <item>Amapá</item>
+        <item>Pernambuco</item>
+        <item>Rio Grande do Sul</item>
+        <item>Roraima</item>
+        <item>Bahia</item>
+        <item>Ceará</item>
+        <item>Maranhão</item>
+        <item>Pará</item>
+        <item>Paraíba</item>
+        <item>Piauí</item>
+        <item>Sergipe</item>
+        <item>Acre</item>
+        <item>Espírito Santo</item>
+        <item>Mato Grosso</item>
+        <item>Rondônia</item>
+        <item>Santa Catarina</item>
+        <item>Tocantins</item>
+    </string-array>
+
+</resources>
